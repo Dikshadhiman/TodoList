@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+    --tw-bg-opacity: 1;
+    background-color: rgb(100 116 139 / var(--tw-bg-opacity));
+} */
+
+body {
+    --tw-bg-opacity: 1;
+    background: radial-gradient(circle,rgb(246, 245, 247), rgb(207, 153, 243))
+}
